@@ -2,17 +2,14 @@
 
 ### 环境
 
-python  \quad 3.7
+- python    3.7
+- tensorflow   1.14.0
+- keras    2.2.0
+- bert4keras   0.10.0
+- gensim   3.8.3
+- pyahocorasick   1.4.0
 
-tensorflow \quad 1.14.0
-
-keras  \quad 2.2.0
-
-bert4keras  \quad 0.10.0
-
-gensim  \quad 
-
-pyahocorasick \quad 1.4.0
+### 后期计划
 
 系列视频持续更新中……，后期代码也将一并上传
 
